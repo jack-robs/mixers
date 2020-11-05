@@ -1,0 +1,14 @@
+https://bitcointalk.org/index.php?topic=919116.msg10096563
+- forum post + discussion on "Joinmarket"
+
+https://github.com/chris-belcher/coinjumble
+- repo on coinjumble
+
+https://github.com/michaelgpearce/coinmux
+- repo on coinmux
+
+https://bitcointalk.org/index.php?topic=567625.0
+- forum post + discussion on "CoinShuffle"
+
+https://bitcointalk.org/index.php?topic=432121.0
+- forum post + discussion on "coinjoin"
