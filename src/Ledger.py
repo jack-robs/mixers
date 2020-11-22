@@ -16,9 +16,9 @@ class Ledger:
         dtg = Transaction.dtg
         builder.append(dtg)
 
-        ','.join(builder)
+        to_csv = ','.join(builder)
 
-        pass
+        return to_csv
 
     # read last entry to ledger
     def read_last(self):
