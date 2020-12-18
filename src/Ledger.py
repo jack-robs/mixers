@@ -3,7 +3,7 @@
 
 class Ledger:
 
-    def __init__(self):
+    # def __init__(self):
         self.ledger_name = 'jackpay_ledger.csv'
 
     def decode_tx(self, Transaction):

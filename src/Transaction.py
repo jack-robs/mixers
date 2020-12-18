@@ -12,7 +12,6 @@ class Transaction:
         self.sent_from = sender
         self.sent_to = recv
         self.amount = amount
-        val_str = str(amount)
         sha = hashlib.sha256(sent_from + sent_to + val_str)
         self.last4_hash = sha[:-4]
 
